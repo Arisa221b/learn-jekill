@@ -1,18 +1,7 @@
 ---
 layout: post
-title:  "Another post"
-date:   2017-03-13 19:09:48 +0100
-tags: 
-    - beatles
-    - data
----
+title:  "První KniHra"
 
-This is just another post. See how to include data inside your posts:
-
-## Beatles Discography
-
-<ul>
-{% for album in site.data.beatles %}
-    <li><b>{{ album.Name }}</b> (released on {{ album.Released }})</li>
-{% endfor %}
-</ul>
+Video o prvním projektu KniHry, nemá s naším navrhovaným projektem nic společného, krom názvu, ale určitě je dobré si ho uvést.
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=sjU_YHpHXVw&t=56s" frameborder="0" allowfullscreen></iframe>
